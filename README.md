@@ -6,7 +6,7 @@ The application goes beyond simple keyword matching by identifying semantic simi
 
 ## Live Demo
 
-[Launch the AI Resume Matcher](PASTE_YOUR_LIVE_APP_LINK_HERE)
+[Launch the AI Resume Matcher](https://ai-resume-matcher-saow9iggthchyc7djblovz.streamlit.app/)
 
 ## Overview
 
